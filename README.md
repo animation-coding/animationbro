@@ -45,7 +45,7 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="animationcoding" /></p>
 
 <br>
 <br>
@@ -54,7 +54,7 @@
 
 
 ## 
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="animationcoding" /></p>
 
 
 
