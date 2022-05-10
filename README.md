@@ -7,7 +7,7 @@
 
 <br><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=animationbro&label=Profile%20views&color=0e75b6&style=flat" alt="animationbro" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=animationbro&label=Profile%20views&color=0e75b6&style=flat" alt="animationbro" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 <br>
 
 - ⚡ Fun fact **I Am Funny**
@@ -15,6 +15,7 @@
 <br>
 
 
+## 
 <h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://fb.com/animationcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="animationcoding" height="30" width="40" /></a>
@@ -24,6 +25,7 @@
 
 <br>
 
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/animationcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="animationcoding" height="30" width="40" /></a>
@@ -39,10 +41,20 @@
 <p><a href="https://www.buymeacoffee.com/animationcoding"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="animationcoding" /></a></p><br><br>
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animationbro&show_icons=true&locale=en&layout=compact" alt="animationbro" /></p>
+
+
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animationbro&show_icons=true&locale=en" alt="animationbro" /></p>
+<br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animationbro&" alt="animationbro" /></p>
+
+
+## 
+
+
+
 
