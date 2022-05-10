@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=animationbro&label=Profile%20views&color=0e75b6&style=flat" alt="animationbro" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 <br>
 
-<img  src="https://profile-counter.glitch.me/username/count.svg" alt="animationbro" />
+<img  src="https://profile-counter.glitch.me/animationbro/count.svg" alt="animationbro" />
 
 - ⚡ Fun fact **I Am Funny**
 
@@ -56,7 +56,7 @@
 
 
 ## 
-<p align="center"><img src="https://camo.githubusercontent.com/eed855d08c22e78614f731a31fc879413c27b71d529157fc181ee5daae827a3f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636f6465535441434b72" alt="animationcoding" /></p>
+<p align="center"><img src="https://camo.githubusercontent.com/eed855d08c22e78614f731a31fc879413c27b71d529157fc181ee5daae827a3f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636f6465535441434b72" alt="animationcoding"/></p>
 
 
 
